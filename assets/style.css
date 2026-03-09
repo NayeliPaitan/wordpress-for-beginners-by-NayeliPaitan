@@ -482,14 +482,14 @@ a {
   flex-wrap: wrap;
 }
 
-/* ===== Ajuste botones "Abrir módulo" ===== */
+/* ===== Ajuste botones "Abrir mĆ³dulo" ===== */
 .card .btn.primary {
   padding: 8px 16px;
   /* menos alto */
   border-radius: 999px;
   /* totalmente redondo */
   font-size: 14px;
-  /* un poco más fino */
+  /* un poco mĆ�s fino */
   font-weight: 600;
   min-height: auto;
   line-height: 1.2;
@@ -508,4 +508,4 @@ a {
   .card {
     grid-column: span 12
   }
-}
+  }
